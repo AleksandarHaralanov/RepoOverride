@@ -3,7 +3,7 @@
 Cheat mod menu for [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/).
 
 > [!CAUTION]
-> This tool is for educational and entertainment purposes only. Use at your own risk. The developers are not responsible for any consequences that may arise from using this software, including but not limited to game bans or instability.
+> This cheat mod menu is for educational and entertainment purposes only. Use at your own risk. I am not responsible for any consequences that may arise from using this software, including but not limited to game bans or instability.
 
 ## Features
 
