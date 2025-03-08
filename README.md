@@ -2,6 +2,9 @@
 
 Cheat mod menu for [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/).
 
+> [!CAUTION]
+> This tool is for educational and entertainment purposes only. Use at your own risk. The developers are not responsible for any consequences that may arise from using this software, including but not limited to game bans or instability.
+
 ## Features
 
 - **God Mode**: Become invincible and immune to damage
@@ -71,7 +74,3 @@ The injection process:
 2. It calls the `Init` method in the `Loader` class
 3. The loader creates a persistent GameObject in the game scene
 4. This GameObject holds the `Hax` component that manages all mod features
-
-## Disclaimer
-
-This tool is for educational and entertainment purposes only. Use at your own risk. The developers are not responsible for any consequences that may arise from using this software, including but not limited to game bans or instability.
